@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Splash" parent="android:Theme">
+        <item name="android:windowBackground">@drawable/first_start</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.List" parent="android:Theme">
+        <item name="android:windowBackground">@drawable/listscreen1</item>
+    </style>
+
+    <style name="Theme.Help" parent="android:Theme">
+        <item name="android:windowBackground">@drawable/help</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
+
+

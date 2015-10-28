@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteIt!</string>
+    <string name="no_notes">Пусто...</string>
+    <string name="menu_insert">Записать</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="title">Заметка</string>
+    <string name="body">Подробно</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="edit_note">Редактировать</string>
+    <string name="appwidget_text">NoteIt!</string>
+    <string name="add_widget">Добавить Виджет</string>
+    <string name="options">Справка</string>
+    <string name="search">Поиск</string>
+    <string name="add_note">Записать</string>
+</resources>
